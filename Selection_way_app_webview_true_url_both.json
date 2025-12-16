@@ -19,6 +19,11 @@
   "Batch12_url": "https://salxway.netlify.app/English%20Special-1.html",
   
 
+  "popup_enable": true,
+  "app_name": "GYANBINDU EXAM SATHI",
+  "popup_message": "Aapka swagat hai! Exam Saathi me seekhna hai asaan, interesting aur fun.\n\nDaily updates ke liye Telegram join karein.",
+  "telegram_link": "https://t.me/your_channel"
+
 
   "force_update": false,
   "message": "aab padh lee !"
